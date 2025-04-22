@@ -97,7 +97,6 @@
 <body>
   <div class="login-container">
     <h2>Welcome Back all</h2>
-    <h2>This is just a Demo Page</h2>
     <form action="/login" method="POST">
       <input type="text" placeholder="Username" name="username" required>
       <input type="password" placeholder="Password" name="password" required>
